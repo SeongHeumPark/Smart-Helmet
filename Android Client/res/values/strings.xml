@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Global app strings -->
+    <string name="app_name">Smart Helmet</string>
+    <string name="service_name">Smart Helmet Service</string>
+    <string name="noti_receiver_name">Smart Helmet noti receiver</string>
+    
+    <!-- Settings -->
+    <string name="action_settings">Settings</string>
+    
+    <!-- UI, Activity, Fragment -->
+    <string name="title_messagelist">Message List</string>
+    <string name="title_filters">Filters</string>
+    <string name="title_watchcontrol">Watch Control</string>    
+
+    <!-- Options Menu -->
+    <string name="connect">Connect\na device</string>
+    <string name="discoverable">Make\ndiscoverable</string>
+    <string name="noti_settings">Notification\nsetting</string>
+    <string name="empty"/>
+    <string name="kakao">카카오톡</string>
+    <string name="message">메시지</string>
+    <string name="tmap_execute">T Map을 실행 중입니다.</string>
+    <string name="front_execute">전방 카메라를 불러오는 중입니다.</string>
+    
+</resources>
